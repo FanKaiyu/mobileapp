@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.kaiyu.MobleMedicalApp</string>
 				<key>bundle-version</key>
-				<string>1.0.60</string>
+				<string>2.0.01</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
